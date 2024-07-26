@@ -1,39 +1,29 @@
-<h1>Hi, I'm Yussouf! 
+# Hi there, I'm Amal 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## About Me
+I'm a passionate DevOps and Automation Engineer interested in cloud technologies and automation tools.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+## Skills
+- **Languages:** Python, Bash
+- **Tools:** Docker, Kubernetes, Ansible, Terraform, AWS, Git
+- **CI/CD:** Jenkins, GitHub Actions
 
-<h2> Certifcations</h2>
+## Projects
 
-- [Infrascucture Automation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+### [Week10 VPC EC2 ALB](https://github.com/Yb-Amal/week10-vpc-ec2-alb.git)
+A project demonstrating the setup of a VPC with EC2 instances and an Application Load Balancer using AWS.
 
+### [Ansible Project](https://github.com/Yb-Amal/Ansible-project.git)
+A collection of Ansible playbooks for automating infrastructure management.
 
-<h2> 🤳 Connect with me:</h2>
+### [DevOps Terraform Code](https://github.com/Yb-Amal/DevOps-terraform-code-w12.git)
+Terraform scripts for provisioning infrastructure in AWS.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### [Geo App](https://github.com/Yb-Amal/geo-app.git)
+A web application that provides geolocation services.
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Email](mailto:your-email@example.com)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yb-Amal&show_icons=true)
