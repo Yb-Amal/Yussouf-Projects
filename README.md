@@ -1,29 +1,43 @@
-# Hi there, I'm Amal 👋
+<h1>Hi, I'm Yussouf! 
 
-## About Me
-I'm a passionate DevOps and Automation Engineer interested in cloud technologies and automation tools.
 
-## Skills
-- **Languages:** Python, Bash
-- **Tools:** Docker, Kubernetes, Ansible, Terraform, AWS, Git
-- **CI/CD:** Jenkins, GitHub Actions
+
+Welcome to my GitHub portfolio! Here you'll find some of the projects I've been working on.
+
+<h2>👨‍💻 DevOp Projects:</h2>
 
 ## Projects
 
-### [Week10 VPC EC2 ALB](https://github.com/Yb-Amal/week10-vpc-ec2-alb.git)
-A project demonstrating the setup of a VPC with EC2 instances and an Application Load Balancer using AWS.
+### [Week 10 VPC EC2 ALB](https://github.com/Yb-Amal/week10-vpc-ec2-alb.git)
+A project focused on creating a VPC, EC2 instances, and an Application Load Balancer using Terraform.
 
 ### [Ansible Project](https://github.com/Yb-Amal/Ansible-project.git)
-A collection of Ansible playbooks for automating infrastructure management.
+This project showcases my automation skills using Ansible.
 
-### [DevOps Terraform Code](https://github.com/Yb-Amal/DevOps-terraform-code-w12.git)
-Terraform scripts for provisioning infrastructure in AWS.
+### [DevOps Terraform Code W12](https://github.com/Yb-Amal/DevOps-terraform-code-w12.git)
+A comprehensive project using Terraform for infrastructure as code.
 
 ### [Geo App](https://github.com/Yb-Amal/geo-app.git)
-A web application that provides geolocation services.
+An application that provides geographical information based on user input.
+
+### [WordPress Docker Compose](https://github.com/Yb-Amal/wordpress-docker-compose.git)
+A project to set up a WordPress site using Docker Compose.
+
+### [Week 13 Code](https://github.com/Yb-Amal/week13-code.git)
+Various scripts and configurations from my Week 13 tasks.
+
+### [Node App](https://github.com/Yb-Amal/node-app.git)
+A simple Node.js application to demonstrate backend development skills.
+
+## Skills
+- DevOps
+- Automation
+- Terraform
+- Ansible
+- Docker
+- Node.js
+- Cloud Computing
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Email](mailto:your-email@example.com)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yb-Amal&show_icons=true)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Email](mailto:your.email@example.com)
