@@ -8,13 +8,13 @@ Welcome to my GitHub portfolio! Here you'll find some of the projects I've been 
 
 ## Projects
 
-### [Week 10 VPC EC2 ALB](https://github.com/Yb-Amal/week10-vpc-ec2-alb.git)
+### [Terraform Load Balancer](https://github.com/Yb-Amal/week10-vpc-ec2-alb.git)
 A project focused on creating a VPC, EC2 instances, and an Application Load Balancer using Terraform.
 
 ### [Ansible Project](https://github.com/Yb-Amal/Ansible-project.git)
 This project showcases my automation skills using Ansible.
 
-### [DevOps Terraform Code W12](https://github.com/Yb-Amal/DevOps-terraform-code-w12.git)
+### [Infrastructure Terraform Code ](https://github.com/Yb-Amal/DevOps-terraform-code-w12.git)
 A comprehensive project using Terraform for infrastructure as code.
 
 ### [Geo App](https://github.com/Yb-Amal/geo-app.git)
