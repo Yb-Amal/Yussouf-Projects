@@ -23,8 +23,8 @@ An application that provides geographical information based on user input.
 ### [WordPress Docker Compose](https://github.com/Yb-Amal/wordpress-docker-compose.git)
 A project to set up a WordPress site using Docker Compose.
 
-### [Week 13 Code](https://github.com/Yb-Amal/week13-code.git)
-Various scripts and configurations from my Week 13 tasks.
+### [Python Project](https://github.com/Yb-Amal/w22-python.git)
+A Python-based project demonstrating my proficiency with Python programming.
 
 ### [Node App](https://github.com/Yb-Amal/node-app.git)
 A simple Node.js application to demonstrate backend development skills.
@@ -37,6 +37,7 @@ A simple Node.js application to demonstrate backend development skills.
 - Docker
 - Node.js
 - Cloud Computing
+- Python
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
